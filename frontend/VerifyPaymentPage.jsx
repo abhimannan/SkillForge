@@ -3,7 +3,7 @@ import { useLocation, useNavigate } from "react-router-dom";
 import axios from "axios";
 import { useAuth } from "@clerk/clerk-react";
 
-const API_BASE = "http://localhost:4000";
+const API_BASE = "https://skillforge-backend-quqm.onrender.com";
 
 const VerifyPaymentPage = () => {
   const location = useLocation();
