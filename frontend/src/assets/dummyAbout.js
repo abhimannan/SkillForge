@@ -1,7 +1,7 @@
-import A1 from "../assets/A1.png"
-import A2 from "../assets/A2.png"
-import A3 from "../assets/A3.png"
-import A4 from "../assets/A4.png"
+import F1 from "../assets/F1.png"
+import F2 from "../assets/F2.png"
+import F3 from "../assets/F3.png"
+import F4 from "../assets/F4.png"
 import AT1   from "../assets/AT1.png"
 import AT2 from "../assets/AT2.png"
 import AT3 from "../assets/AT3.png"
@@ -130,30 +130,30 @@ export const missionVisionValues = [
 
 export const teamMembers = [
   {
-    name: "Sarah Johnson",
+    name: "D Ramya",
     role: "Founder & CEO",
-    image:A1,
-    bio: "15+ years in education technology",
+    image:F1,
+    bio: "3+ years in education technology",
     social: ["twitter", "linkedin", "github"],
   },
   {
-    name: "Michael Chen",
+    name: "Chenna Priyanka",
     role: "Chief Learning Officer",
-    image:A2,
-    bio: "Former university professor and curriculum expert",
+    image:F2,
+    bio: "Curriculum expert",
     social: ["twitter", "linkedin"],
   },
   {
-    name: "Emily Rodriguez",
+    name: "Sathvik Raghav",
     role: "Product Director",
-    image:A3,
+    image:F3,
     bio: "Specialized in user experience and learning design",
     social: ["twitter", "linkedin", "dribbble"],
   },
   {
-    name: "David Kim",
-    role: "Tech Lead",
-    image:A4,
+    name: "K Abhi",
+    role: "Technical Teacher & Advicer",
+    image:F4,
     bio: "Full-stack developer and system architect",
     social: ["twitter", "linkedin", "github"],
   },
@@ -228,18 +228,18 @@ export const testimonials = [
     name: "Alex Thompson",
     role: "Software Developer",
     image:AT1,
-    text: "LearnHub transformed my career. The courses are comprehensive and the support is exceptional.",
+    text: "SkillForge transformed my career. The courses are comprehensive and the support is exceptional.",
     rating: 5,
   },
   {
-    name: "Maria Garcia",
+    name: "Gayathri",
     role: "Data Scientist",
     image:AT2,
     text: "The quality of instruction and hands-on projects helped me land my dream job.",
     rating: 5,
   },
   {
-    name: "James Wilson",
+    name: "Ramana",
     role: "UX Designer",
     image:AT3,
     text: "Best investment I've made in my professional development. Highly recommended!",

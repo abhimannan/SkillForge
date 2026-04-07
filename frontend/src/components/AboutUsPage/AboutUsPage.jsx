@@ -95,12 +95,12 @@ const AboutUsPage = () => {
           {/* Trust Badge */}
           <div className={aboutUsStyles.trustBadge}>
             <Star className={aboutUsStyles.trustIcon} />
-            Trusted by 50,000+ students worldwide
+            Trusted by 500+ students worldwide
           </div>
 
           {/* Main Heading */}
           <h1 className={aboutUsStyles.mainHeading}>
-            About LearnHub
+            About SkillForge
           </h1>
 
           {/* Subheading */}
